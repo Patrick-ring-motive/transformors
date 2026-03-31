@@ -5,7 +5,11 @@
   "camelcase_modelname": "BrandNewBert",
   "authors": "The HuggingFace Team",
   "checkpoint_identifier": "brand-new-bert-base-cased",
-  "tokenizer_type": ["Based on BERT", "Based on BART", "Standalone"],
+  "tokenizer_type": [
+    "Based on BERT",
+    "Based on BART",
+    "Standalone"
+  ],
   "generate_tensorflow_pytorch_and_flax": [
     "PyTorch, TensorFlow and Flax",
     "PyTorch & TensorFlow",
@@ -15,5 +19,8 @@
     "TensorFlow",
     "Flax"
   ],
-  "is_encoder_decoder_model": ["True", "False"]
+  "is_encoder_decoder_model": [
+    "True",
+    "False"
+  ]
 }
